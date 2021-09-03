@@ -143,7 +143,7 @@
       "product-assembly-options",
       "product-gifts",
       "flex-layout.row#buy-button",
-      "availability-subscriber",
+      "availability-notify",
       "shipping-simulator",
       "share#default"
     ]
@@ -200,7 +200,7 @@
     "props": {
       "blockClass": "message-availability"
     },
-    "children": ["availability-subscriber"]
+    "children": ["availability-notify"]
   },
 
   "share#default": {
