@@ -67,7 +67,7 @@
   },
   "peerDependencies": {
     "vtex.reviews-and-ratings": "2.x",
-    "vtex.availability-notify": "0.x"
+    "vtex.availability-notify": "1.1.0"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
